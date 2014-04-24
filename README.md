@@ -1,4 +1,4 @@
-ccs-workshop
+c_workplace
 ============
 
-my ti 430 ccs code
+my c code
